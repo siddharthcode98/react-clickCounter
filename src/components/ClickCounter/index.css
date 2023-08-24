@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-Container{
+    background-color: #f1f5f8;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.main_heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    color:#2d3a35;
+}
+.countElement{
+    color: #c20a72;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+.buttonElement{
+    background-color: #007bff;
+    color:#f1f5f8;
+    border-style: none;
+    border-radius:10px;
+    height: 30px;
+    width: 100px;
+    font-family: "Roboto";
+    cursor:pointer;
+    outline:none;
+
+}
